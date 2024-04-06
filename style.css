@@ -60,3 +60,7 @@ i{
     
     transform: translate(5px);
 }
+
+.service:hover{
+    transform: translateY(180deg);
+}
