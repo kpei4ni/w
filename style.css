@@ -10,8 +10,19 @@
 .service{
     margin-top: 200px;
     padding: 20px;
-
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px #00000012;
+    font-family: "Catamaran", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     box-shadow: 4px 4px 10px rgba(121, 121, 121, 0.288);
+}
+.service h2{
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
 .arrow{
     color: blue;
