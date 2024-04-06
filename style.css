@@ -64,3 +64,11 @@ i{
 .service:hover{
     transform: translateY(180deg);
 }
+
+.product .image{
+    border: 1px red solid;
+}
+
+.product .image img{
+    display: block;
+}
